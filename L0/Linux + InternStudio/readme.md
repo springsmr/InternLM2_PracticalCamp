@@ -1,2 +1,2 @@
 # Linux+InternStudio 关卡
-## 二级标题
+## 一、InternStudio开发机介绍
